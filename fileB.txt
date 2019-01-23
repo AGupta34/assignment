@@ -1,1 +1,3 @@
 working on file B
+
+Modified file B on dir2
