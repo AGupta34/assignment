@@ -1,3 +1,0 @@
-working on file B
-i am modified
-Modified file B on dir2
